@@ -3,4 +3,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/aero-world/)
 
-![LOGISTICS](LOGISTICS.png)
+
